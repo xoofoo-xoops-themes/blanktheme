@@ -1,0 +1,4 @@
+blanktheme
+==========
+
+blanktheme for xoops
